@@ -1,0 +1,10 @@
+C:\Users\isaturk\source\repos\YatiliKronometre\YatiliKronometre\bin\Debug\YatiliKronometre.exe.config
+C:\Users\isaturk\source\repos\YatiliKronometre\YatiliKronometre\bin\Debug\YatiliKronometre.exe
+C:\Users\isaturk\source\repos\YatiliKronometre\YatiliKronometre\bin\Debug\YatiliKronometre.pdb
+C:\Users\isaturk\source\repos\YatiliKronometre\YatiliKronometre\obj\Debug\YatiliKronometre.csprojAssemblyReference.cache
+C:\Users\isaturk\source\repos\YatiliKronometre\YatiliKronometre\obj\Debug\YatiliKronometre.Form1.resources
+C:\Users\isaturk\source\repos\YatiliKronometre\YatiliKronometre\obj\Debug\YatiliKronometre.Properties.Resources.resources
+C:\Users\isaturk\source\repos\YatiliKronometre\YatiliKronometre\obj\Debug\YatiliKronometre.csproj.GenerateResource.cache
+C:\Users\isaturk\source\repos\YatiliKronometre\YatiliKronometre\obj\Debug\YatiliKronometre.csproj.CoreCompileInputs.cache
+C:\Users\isaturk\source\repos\YatiliKronometre\YatiliKronometre\obj\Debug\YatiliKronometre.exe
+C:\Users\isaturk\source\repos\YatiliKronometre\YatiliKronometre\obj\Debug\YatiliKronometre.pdb
